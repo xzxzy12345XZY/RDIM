@@ -1,6 +1,8 @@
 # RDIM
 
-本项目基于可穿戴设备的帕金森病（PD）与鉴别性疾病（DD）在喝水活动中的分类任务，使用了公开数据集 PADS，核心代码基于 `KNNRDIP_pads_242-2-pads9.py` 实现。该研究已发表于 ICPADS 2023。
+本项目基于可穿戴设备的帕金森病（PD）与鉴别性疾病（DD）在喝水活动中的分类任务，使用了公开数据集 PADS，核心代码基于 `KNNRDIP_pads_242-2-pads9.py` 实现。该研究已发表于 ICPADS 2023，。
+
+数据涉及私有手工特征集，如有需请联系通信作者。
 
 **论文题目：**  
 *Modeling Parkinson’s Disease Aided Diagnosis with Multi-Instance Learning: An Effective Approach to Mitigate Label Noise*
