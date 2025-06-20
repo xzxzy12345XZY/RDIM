@@ -29,5 +29,5 @@ conda activate is_env
 
 ```
 
-KNNRDIP_pads_242-2-pads9.py
+python KNNRDIP_pads_242-2-pads9.py
 ```
